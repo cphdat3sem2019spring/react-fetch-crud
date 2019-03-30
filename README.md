@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-It is meant as start code for an exercise given at cphbusiness.dk (Computer Science AP) 
+## Start code for an exercise given at cphbusiness.dk (Computer Science AP) 
 
 #### The following is the original documentation created by Create React App
 Below you will find some information on how to perform common tasks.<br>
