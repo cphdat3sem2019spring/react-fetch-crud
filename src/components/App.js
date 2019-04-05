@@ -8,7 +8,7 @@ class App extends Component {
     this.state = {
       persons: [],
       //Use this to pass down a new or existing (edit) person to AddEditPerson
-      newPerson: { id: "", age: "", name: "", email: "" } 
+      newPerson: { id: "", age: "", name: "", email: "",  gender: "" } 
     };
   }
 
